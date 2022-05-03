@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @sampadk04
-- 👀 I’m interested in 0_0
+- 👋 Hi, I’m Sampad
+<!---
+- 👀 I’m interested in 0_o
+--->
 - 🌱 I’m an aspiring Data Scientist
-- 💞️ I’m looking to collaborate on 0_0
+- 💞️ I’m looking to collaborate on Industrial Projects and Open Source
 - 📫 Reach me at sampaddavcspur2001@gmail.com
 
 <!---
