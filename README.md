@@ -2,7 +2,7 @@
 <!---
 - 👀 I’m interested in 0_o
 --->
-- 🌱 I’m an aspiring Data Scientist
+- 🌱 I’m an ML enthusiast.
 - 💞️ I’m looking to collaborate on Industrial Projects and Open Source
 - 📫 Reach me at sampaddavcspur2001@gmail.com
 
